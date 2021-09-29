@@ -6,6 +6,7 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Master Branch Changes");
             Employee.Name("ABC");
 
             Console.WriteLine("this is from Development branch check in");
