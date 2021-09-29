@@ -6,11 +6,15 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Master Branch Changes");
             Employee.Name("ABC");
 
             Console.WriteLine("this is from Development branch check in");
             Console.ReadLine();
+=========
+            Console.WriteLine("Master Branch Changes");
+>>>>>>>>> Temporary merge branch 2
         }
     }
 }
