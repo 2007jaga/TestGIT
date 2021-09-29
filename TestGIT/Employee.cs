@@ -8,7 +8,7 @@ namespace TestGIT
     {
         public static void Name(string EmployeeName)
         {
-            Console.WriteLine("My Name is " + EmployeeName);
+            Console.WriteLine("My Name is testing " + EmployeeName);
         }
     }
 }
