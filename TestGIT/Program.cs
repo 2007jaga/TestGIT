@@ -12,9 +12,7 @@ namespace TestGIT
 
             Console.WriteLine("this is from Development branch check in");
             Console.ReadLine();
-=========
-            Console.WriteLine("Master Branch Changes");
->>>>>>>>> Temporary merge branch 2
+  
         }
     }
 }
