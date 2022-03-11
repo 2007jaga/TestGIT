@@ -14,14 +14,16 @@ namespace TestGIT
 
             Employee.Name("ABC");
 
-            Console.WriteLine("this is from Development branch check in");
-            
+            Console.WriteLine("Development branch check in");
+            Console.WriteLine("Here also changed");
+
             Console.WriteLine("Master Branch Changes");
 
  
             Console.WriteLine("Master Branch Changes"); 
-            Console.WriteLine("this is from Development branch check in");
+            Console.WriteLine("Here changed Development branch check in");
             Student.Name("hari");
+            Console.WriteLine("Here also changed");
             Console.ReadLine(); 
         }
     }

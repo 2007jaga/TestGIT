@@ -19,5 +19,13 @@ namespace TestGIT
                 Date = date
             };
         }
+
+        internal static Test CreatewithMR(string testName, string date)
+        {
+            return new Test
+            {
+                TestName = "MR." + testName, Date ="01/jan/2022"
+            };
+        }
     }
 }
