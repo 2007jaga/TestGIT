@@ -21,6 +21,20 @@ namespace TestGIT
             Console.WriteLine("Clean the code");
             Console.WriteLine("Clean the code");
             Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code"); Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
+            Console.WriteLine("Clean the code");
             Console.ReadLine(); 
         }
     }
