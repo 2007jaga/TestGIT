@@ -8,6 +8,7 @@ namespace TestGIT
     {
         public static void Name(string Name)
         {
+            Console.WriteLine("White");
         }
     }
 }
