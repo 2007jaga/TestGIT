@@ -25,6 +25,7 @@ namespace TestGIT
             Student.Name("hari");
             Console.WriteLine("Here also changing and changed");
             Abc123.MEthod();
+            Console.WriteLine("This code will merge in master branch");
             Console.ReadLine(); 
         }
     }
