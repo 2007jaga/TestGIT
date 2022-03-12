@@ -8,7 +8,6 @@ namespace TestGIT
     {
         public static void Name(string Name)
         {
-            Console.WriteLine( "testing changing something"  +Name.ToString());
         }
     }
 }

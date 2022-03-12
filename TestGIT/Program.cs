@@ -6,8 +6,11 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tesdsdfsadf");
+            Console.WriteLine("tesdsdfsadf");
+            Console.WriteLine("tesdsdfsadf");
+            Console.WriteLine("tesdsdfsadf");
 
-           
             Console.ReadLine(); 
         }
     }
