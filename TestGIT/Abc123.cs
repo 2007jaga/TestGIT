@@ -9,6 +9,9 @@ namespace TestGIT
         public static void MEthod()
         {
             Console.WriteLine("Changed some values");
+            Console.WriteLine("Changed some values");
+            Console.WriteLine("Changed some values");
+
         }
     }
 }
